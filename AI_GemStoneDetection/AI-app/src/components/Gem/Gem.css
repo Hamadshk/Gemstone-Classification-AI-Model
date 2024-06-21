@@ -1,0 +1,13 @@
+.gem
+{
+    display:flex;
+    align-items: center;
+    padding:30px;
+    border: 2px solid gray;
+    gap:20px;
+}
+
+.gem>img
+{
+    width:300px
+}
