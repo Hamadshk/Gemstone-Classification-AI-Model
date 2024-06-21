@@ -14,5 +14,5 @@
 
 <h3>Sample Image</h3>
 <p align="center">
-  <img src="path/to/your/image.png" alt="Gemstone Classification AI Model Diagram" width="500">
+  <img src="./screencapture-localhost-5173-2024-06-21-21_45_09.png" width="500">
 </p>
